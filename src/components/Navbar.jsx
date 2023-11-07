@@ -4,8 +4,8 @@ function Navbar() {
     return (
         <nav className="bg-gray-800 text-white p-4">
             <div className="container mx-auto flex justify-between items-center">
-                <div className="text-2xl font-bold">
-                    <Link to="/">Home</Link> {/* Use Link for navigation */}
+                <div className="text-4xl font-bold">
+                    <Link to="/">Supreme Auto Care</Link> {/* Use Link for navigation */}
                 </div>
                 <ul className="flex space-x-6">
                     <li>
@@ -19,6 +19,9 @@ function Navbar() {
                     </li>
                     <li>
                         <Link to="/contact">Contact</Link> {/* Use Link for navigation */}
+                    </li>
+                    <li>
+                        <Link to="/reviews">Reviews</Link> {/* Use Link for navigation */}
                     </li>
                 </ul>
             </div>
