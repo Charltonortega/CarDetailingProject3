@@ -1,0 +1,66 @@
+
+const vehicleData = [
+  {
+    id: 1,
+    name: 'Vehicle 1',
+    image: '../public/placeholder.jpg',
+    model: 'Model A',
+    make: 'Make A',
+    year: '2023',
+    transmission: 'Automatic',
+    fuel: 'Gasoline',
+  },
+  {
+    id: 2,
+    name: 'Volkswagen Golf',
+    image: '../public/placeholder.jpg',
+    model: 'Golf',
+    make: 'Volkswagen',
+    year: '2023',
+    transmission: 'Automatic',
+    fuel: 'Gasoline',
+  },
+  {
+    id: 3,
+    name: 'Toyota Corolla',
+    image: '../public/placeholder.jpg',
+    model: 'Corolla',
+    make: 'Toyota',
+    year: '2023',
+    transmission: 'Automatic',
+    fuel: 'Gasoline',
+  },
+  {
+    id: 4,
+    name: 'Tesla Model 3',
+    image: '../public/placeholder.jpg',
+    model: 'Model 3',
+    make: 'Tesla',
+    year: '2023',
+    transmission: 'Electric',
+    fuel: 'Electricity',
+  },
+  {
+    id: 5,
+    name: 'Mazda CX-5',
+    image: '../public/placeholder.jpg',
+    model: 'CX-5',
+    make: 'Mazda',
+    year: '2023',
+    transmission: 'Automatic',
+    fuel: 'Gasoline',
+  },
+  {
+    id: 6,
+    name: 'Mercedes-Benz C-Class',
+    image: '../public/placeholder.jpg',
+    model: 'C-Class',
+    make: 'Mercedes-Benz',
+    year: '2023',
+    transmission: 'Automatic',
+    fuel: 'Gasoline',
+  },
+  // add more here later
+];
+
+export default vehicleData;

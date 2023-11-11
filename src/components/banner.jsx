@@ -10,14 +10,14 @@ function Banner() {
 
             <div className="relative mx-auto max-w-screen-xl px-4 py-32 sm:px-6 lg:flex lg:h-screen lg:items-center lg:px-8">
                 <div className="max-w-xl text-center ltr:sm:text-left rtl:sm:text-right">
-                    <h1 className="font-extrabold sm:text-5xl text-white">
+                    <h1 className="font-extrabold sm:text-5xl text-black">
                         Plan Your Trip Now
-                        <strong className="block font-extrabold text-rose-600">
+                        <strong className="block font-extrabold text-black">
                             Your Journey Awaits
                         </strong>
                     </h1>
 
-                    <p className="mt-4 max-w-sm text-lg text-white">
+                    <p className="mt-4 max-w-sm text-lg text-black">
                         {/* Experience the Ultimate Car Rental Adventure: Unlock Your Dream Ride at Unbeatable Prices with Unlimited Miles and Flexible Pickup Options. Discover a World of Possibilities on the Road to Your Next Adventure. */}
                         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
                     </p>

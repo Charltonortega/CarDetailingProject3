@@ -37,7 +37,7 @@ function Reservation() {
 
     return (
         <div className="container mx-auto py-12">
-            <h2 className="text-2xl font-semibold mb-6">Make a Car Reservation</h2>
+            <h2 className="text-2xl font-semibold mb-6 text-center">Make a Car Reservation</h2>
 
             <div className="grid grid-cols-1 sm:grid-cols-3 gap-10">
                 <div className="form-group">
