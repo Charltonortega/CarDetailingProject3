@@ -6,10 +6,10 @@ function VehicleModels() {
 
     return (
         <div className="grid grid-cols-3 gap-4 p-4 bg-gray-100 rounded-lg shadow-lg">
-            <div className="col-span-3 text-center mb-4">
-                <h1 className="text-3xl font-semibold">Vehicle Models</h1>
-                <p className="text-lg text-gray-600">
-                    Our rental fleet - Choose from a variety of our amazing vehicles to rent for your next adventure or business trip
+            <div className="col-span-3 text-center mb-5">
+                <h1 className="text-5xl font-semibold">Vehicle Models</h1>
+                <p className="text-lg text-gray-600 mt-8">
+                    Our rental fleet - Choose from a variety of our amazing vehicles to rent for your next adventure or business trip.
                 </p>
             </div>
 
@@ -33,8 +33,9 @@ function VehicleModels() {
                 <img
                     src={`/images/${selectedModel.image}`}
                     alt={selectedModel.name}
-                    className="w-full h-auto rounded-lg shadow-lg"
+                    className="rounded-full mr-4 w-400 h-100 object-cover"
                 />
+
             </div>
 
             <div className="col-span-1 p-4">
