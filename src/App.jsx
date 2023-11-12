@@ -4,7 +4,8 @@ import Banner from './components/Banner';
 import Reservation from './components/reservation';
 import VehicleModel from './components/VehicleModels';
 import Choose from './components/choose';
-import Reviews from './components/ReviewSection';
+import Review from './components/ReviewSection';
+import FAQ from './components/faq';
 
 
 function App() {
@@ -15,7 +16,8 @@ function App() {
       <Reservation />
       <VehicleModel />
       <Choose />
-      <Reviews />
+      <Review />
+      <FAQ />
 
     </div>
   );
