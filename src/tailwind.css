@@ -1,3 +1,11 @@
 @import 'tailwindcss/base';
 @import 'tailwindcss/components';
 @import 'tailwindcss/utilities';
+
+div Carcover {
+    object-fit: cover;
+    object-position: center;
+    width: 100%;
+    height: 100%;
+
+}

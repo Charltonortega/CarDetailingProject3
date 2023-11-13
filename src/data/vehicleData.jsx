@@ -13,7 +13,7 @@ const vehicleData = [
   {
     id: 2,
     name: 'Honda Civic ',
-    image: '../vw-golf.png',
+    image: '../civic.png',
     model: 'Civic Euro',
     make: 'Honda',
     year: '2023',
@@ -23,7 +23,7 @@ const vehicleData = [
   {
     id: 3,
     name: 'Toyota Corolla',
-    image: '../public/placeholder.jpg',
+    image: '../corolla.png',
     model: 'Corolla',
     make: 'Toyota',
     year: '2023',
@@ -33,7 +33,7 @@ const vehicleData = [
   {
     id: 4,
     name: 'Tesla Model 3',
-    image: '../public/placeholder.jpg',
+    image: '../tesla.png',
     model: 'Model 3',
     make: 'Tesla',
     year: '2023',
@@ -43,7 +43,7 @@ const vehicleData = [
   {
     id: 5,
     name: 'Mazda CX-5',
-    image: '../public/placeholder.jpg',
+    image: '../Mazda.png',
     model: 'CX-5',
     make: 'Mazda',
     year: '2023',
@@ -53,7 +53,7 @@ const vehicleData = [
   {
     id: 6,
     name: 'Mercedes-Benz C-Class',
-    image: '../public/placeholder.jpg',
+    image: '../merc.png',
     model: 'C-Class',
     make: 'Mercedes-Benz',
     year: '2023',
